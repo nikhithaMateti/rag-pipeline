@@ -2,7 +2,7 @@
 
 This project implements a chatbot that can answer user queries by finding the most relevant text from a provided PDF file. It uses Natural Language Processing (NLP) techniques and embeddings to compute the similarity between the user query and the PDF content.
 
-Features
+<h3>Features</h3>
 
 Extract Text from PDF: Utilizes pdfplumber to extract text from all pages of a PDF file.
 
@@ -12,7 +12,7 @@ Query Matching: Computes cosine similarity to identify the most relevant text ch
 
 Interactive Interface: Users can interact with the chatbot through the terminal and receive contextually accurate responses.
 
-Technologies Used
+<h3>Technologies Used</h3>
 
 Python
 
@@ -22,7 +22,7 @@ sentence-transformers for creating text embeddings
 
 scikit-learn for cosine similarity computation
 
-Prerequisites
+<h3>Prerequisites</h3>
 
 Python 3.7 or higher
 
