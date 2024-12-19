@@ -31,16 +31,13 @@ pip install pdfplumber sentence-transformers scikit-learn
 
 <h3>How to Use</h3>
 
-<h5>Clone this repository:</h5>
-
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+<h5>Clone this repository</h5>
 
 <h5>Place the PDF file you want to query in the project directory.</h5>
 
 Update the pdf_path variable in the code to the path of your PDF file:
 
-pdf_path = "./your-file.pdf"  # Replace with your PDF file path
+pdf_path = "./your-file.pdf"    # Replace with your PDF file path
 
 <h5>Run the chatbot:<h5>
 
